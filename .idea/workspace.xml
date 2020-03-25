@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da11d7ce-d60d-4142-934f-d1c7a50bd33d" name="Default Changelist" comment="" />
+    <list default="true" id="da11d7ce-d60d-4142-934f-d1c7a50bd33d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_register/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/87385f4b-030c-45b7-8230-13cf489a426a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/87385f4b-030c-45b7-8230-13cf489a426a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee_register/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee_register/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee_register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee_register/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +82,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YD8AtnV2NU4tIuUIPDWX7XHgDe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -82,6 +96,7 @@
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -127,7 +142,14 @@
       <option name="presentableId" value="Default" />
       <updated>1582465663450</updated>
       <workItem from="1582465666628" duration="14653000" />
-      <workItem from="1582540575583" duration="1621000" />
+      <workItem from="1582540575583" duration="1765000" />
+      <workItem from="1585149069873" duration="260000" />
+      <workItem from="1585149354037" duration="206000" />
+      <workItem from="1585149706146" duration="368000" />
+      <workItem from="1585150592535" duration="137000" />
+      <workItem from="1585150831842" duration="16000" />
+      <workItem from="1585151648906" duration="85000" />
+      <workItem from="1585153295107" duration="2936000" />
     </task>
     <servers />
   </component>
@@ -143,5 +165,9 @@
       <screen x="55" y="27" width="1865" height="1052" />
     </state>
     <state x="55" y="187" width="1016" height="743" key="SettingsEditor/55.27.1865.1052@55.27.1865.1052" timestamp="1582482336691" />
+    <state x="184" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1585153516778">
+      <screen x="55" y="27" width="1865" height="1052" />
+    </state>
+    <state x="184" y="254" width="672" height="678" key="search.everywhere.popup/55.27.1865.1052@55.27.1865.1052" timestamp="1585153516778" />
   </component>
 </project>

@@ -1,8 +1,11 @@
 from django.shortcuts import render, redirect
+from django.http import HttpResponse
 from .forms import EmployeeForm
 from .models import Employee
-
-# Create your views here.
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from rest_framework import status
+from .serializers import EmployeeSerializer
 
 
 def employee_list(request):
@@ -35,3 +38,14 @@ def employee_delete(request, id):
     employee = Employee.objects.get(pk=id)
     employee.delete()
     return redirect('/employee/list')
+
+
+class EmployeeAPI(APIView):
+
+    def get(self, request):
+        emp = Employee.objects.all()
+        serializer = EmployeeSerializer(emp, many=True)
+        return Response(serializer.data)
+
+    def post(self, request):
+        pass
